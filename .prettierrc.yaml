@@ -1,0 +1,5 @@
+trailingComma: none
+printWidth: 70
+useTabs: true
+singleQuote: true
+semi: false
